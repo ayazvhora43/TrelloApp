@@ -45,7 +45,6 @@ const Replycomment = (props) => {
                     flexDirection: 'row',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    display: 'inline'
                 }}>
                 <Form.Control
                     autoFocus
@@ -56,7 +55,6 @@ const Replycomment = (props) => {
                         width: '130px',
                         height: '30px',
                         margin: '10px 20px',
-                        display: 'inline',
                         color: '#172B4d',
                         display: 'inline'
                     }} />
