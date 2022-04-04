@@ -38,7 +38,7 @@ const Sharedcards = (props) => {
                                 fontWeight: 'bold',
                                 padding: '0 30px'
                             }}>
-                            shared board of {'  '}
+                            shared board of {' '}
                             {str}
                         </Card>
                     </>
